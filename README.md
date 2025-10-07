@@ -66,6 +66,7 @@ Link:
 * **DeepLink & UrlScheme**
 
 	* [android-deeplink-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/DeepLink_UrlScheme/android-deeplink-observer.js)
+	* [android-deeplink-observer2.js](https://github.com/rsenet/FriList/blob/main/01_Observer/DeepLink_UrlScheme/android-deeplink-observer2.js)
 	* [ios-url-scheme-dumper.js](https://github.com/rsenet/FriList/blob/main/01_Observer/DeepLink_UrlScheme/ios-url-scheme-dumper.js)
 	* [ios-url-scheme-fuzzing.js](https://github.com/rsenet/FriList/blob/main/01_Observer/DeepLink_UrlScheme/ios-url-scheme-fuzzing.js)
 
